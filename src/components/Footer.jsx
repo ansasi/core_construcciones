@@ -18,7 +18,7 @@ function Footer() {
         <div className="self-stretch overflow-hidden flex flex-row items-start justify-center p-5 gap-[100px] text-xl md:flex-col md:items-center md:justify-center sm:flex-col sm:gap-[40px] sm:items-center sm:justify-center sm:pl-2.5 sm:pr-2.5 sm:pb-5 sm:box-border">
           <a
             className="[text-decoration:none] flex-1 rounded-xl bg-neutral-800 overflow-hidden flex flex-col items-center justify-start py-[22px] px-5 gap-[15px] text-[inherit] md:flex-[unset] md:self-stretch sm:self-stretch sm:w-auto sm:h-auto sm:cursor-auto sm:flex-[unset]"
-            href="tel:+34 686603421" target="_blank"
+            href="tel:+34 686603421" target="_blank" rel="noreferrer"
           >
             <div className="self-stretch h-[100px] overflow-hidden shrink-0 flex flex-row items-center justify-center py-[11px] px-px box-border gap-[15px]">
               <img
@@ -35,7 +35,7 @@ function Footer() {
           </a>
           <a
             className="[text-decoration:none] flex-1 rounded-xl bg-neutral-800 overflow-hidden flex flex-col items-center justify-start py-[22px] px-5 gap-[15px] text-[inherit] md:flex-[unset] md:self-stretch sm:self-stretch sm:w-auto sm:h-auto sm:flex-[unset]"
-            href="mailto:core@core.com?subject=Contacto a través de web" target="_blank">
+            href="mailto:core@core.com?subject=Contacto a través de web" target="_blank" rel="noreferrer" >
             <div className="self-stretch h-[100px] overflow-hidden shrink-0 flex flex-row items-center justify-center py-[11px] px-px box-border gap-[15px]">
               <img
                 className="relative w-16 h-16 object-contain"
@@ -57,13 +57,13 @@ function Footer() {
           reserved
         </div>
         <div className="self-stretch flex-1 flex flex-row items-center justify-end gap-[25px]">
-          <a href="https://www.instagram.com/" target="_blank">
+          <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
             <img
               className="relative w-10 h-10 object-contain"
               alt=""
               src={linkedin} />
           </a>
-          <a href="https://www.linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
             <img
               className="relative w-10 h-10 object-contain"
               alt=""

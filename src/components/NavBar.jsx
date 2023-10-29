@@ -1,6 +1,5 @@
 import React from "react";
-import { useState } from "react";
-import { logo, menu } from "../assets";
+import { logo } from "../assets";
 
 
 function NavBar() {

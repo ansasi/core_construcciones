@@ -8,7 +8,7 @@ import NavBar from "../components/NavBar";
 
 const Home = () => {
   return (
-    <div className="relative bg-neutral-50 w-full overflow-y-auto flex flex-col items-center justify-start">
+    <div className="relative bg-neutral-50 w-full overflow-y-auto flex flex-col justify-start">
       <NavBar />
       <Hero />
       <Estadisticas />
