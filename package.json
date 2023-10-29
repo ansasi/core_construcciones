@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ansasi.github.io/core_construcciones_locofy/",
-  "name": "core_construcciones_locofy",
+  "homepage": "https://ansasi.github.io/core_construcciones/",
+  "name": "core_construcciones",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
