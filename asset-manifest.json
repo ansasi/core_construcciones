@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/core_construcciones/static/css/main.f2366098.css",
+    "main.js": "/core_construcciones/static/js/main.ae3065eb.js",
+    "static/media/hero.png": "/core_construcciones/static/media/hero.ae8dceda3d1cadcbc7f4.png",
+    "static/media/trabajaconnosotros.png": "/core_construcciones/static/media/trabajaconnosotros.eb7585db1f5ac37f808b.png",
+    "static/media/areanegocio4.png": "/core_construcciones/static/media/areanegocio4.5704e71980235ebd84b1.png",
+    "static/media/areanegocio1.png": "/core_construcciones/static/media/areanegocio1.f30ad9db937ac31be7a3.png",
+    "static/media/areanegocio2.png": "/core_construcciones/static/media/areanegocio2.c16ebeff7b347eaeb4ec.png",
+    "static/media/areanegocio3.png": "/core_construcciones/static/media/areanegocio3.6a45fb8a2588332de567.png",
+    "static/media/terciario.jpg": "/core_construcciones/static/media/terciario.8fba7d9680b74bcef156.jpg",
+    "static/media/residencial.jpg": "/core_construcciones/static/media/residencial.efd913b9e26fcbcd9dd4.jpg",
+    "static/media/comercial.jpg": "/core_construcciones/static/media/comercial.318d664abe7bae0ab634.jpg",
+    "static/media/logo.png": "/core_construcciones/static/media/logo.c58ccb81114482c67857.png",
+    "static/media/client-logo.svg": "/core_construcciones/static/media/client-logo.96da0a26468b27dedddbb4dfb14bff1b.svg",
+    "static/media/client-logo1.svg": "/core_construcciones/static/media/client-logo1.ff81945366f912dce4e01d8a0cc47091.svg",
+    "static/media/logo.svg": "/core_construcciones/static/media/logo.2cc3765334b8fc88cad15370f7fb4860.svg",
+    "static/media/brandhubspot.svg": "/core_construcciones/static/media/brandhubspot.9e322b534a3249a39bc2945e0f61af26.svg",
+    "static/media/quote-mark.svg": "/core_construcciones/static/media/quote-mark.686d82dbcde8534d5a6edcb8b460350b.svg",
+    "static/media/background.svg": "/core_construcciones/static/media/background.39d79a5ce14e5fd32f8c093e43e23445.svg",
+    "index.html": "/core_construcciones/index.html",
+    "static/media/essential-icon.svg": "/core_construcciones/static/media/essential-icon.cad7ad0cf8c27e6828a1c2cedcc7b3a3.svg",
+    "main.f2366098.css.map": "/core_construcciones/static/css/main.f2366098.css.map",
+    "main.ae3065eb.js.map": "/core_construcciones/static/js/main.ae3065eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2366098.css",
+    "static/js/main.ae3065eb.js"
+  ]
+}
