@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/core_construcciones/static/css/main.f2366098.css",
-    "main.js": "/core_construcciones/static/js/main.848da0fe.js",
+    "main.css": "/core_construcciones/static/css/main.5ca68794.css",
+    "main.js": "/core_construcciones/static/js/main.17ffb40b.js",
     "static/media/hero.png": "/core_construcciones/static/media/hero.ae8dceda3d1cadcbc7f4.png",
     "static/media/trabajaconnosotros.png": "/core_construcciones/static/media/trabajaconnosotros.eb7585db1f5ac37f808b.png",
     "static/media/areanegocio4.png": "/core_construcciones/static/media/areanegocio4.5704e71980235ebd84b1.png",
@@ -20,11 +20,11 @@
     "static/media/background.svg": "/core_construcciones/static/media/background.39d79a5ce14e5fd32f8c093e43e23445.svg",
     "index.html": "/core_construcciones/index.html",
     "static/media/essential-icon.svg": "/core_construcciones/static/media/essential-icon.cad7ad0cf8c27e6828a1c2cedcc7b3a3.svg",
-    "main.f2366098.css.map": "/core_construcciones/static/css/main.f2366098.css.map",
-    "main.848da0fe.js.map": "/core_construcciones/static/js/main.848da0fe.js.map"
+    "main.5ca68794.css.map": "/core_construcciones/static/css/main.5ca68794.css.map",
+    "main.17ffb40b.js.map": "/core_construcciones/static/js/main.17ffb40b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2366098.css",
-    "static/js/main.848da0fe.js"
+    "static/css/main.5ca68794.css",
+    "static/js/main.17ffb40b.js"
   ]
 }
