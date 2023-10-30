@@ -20,7 +20,7 @@ function NavBar() {
             <div className="self-stretch flex flex-row items-center">
                 <img className="w-[256px] sm:w-[150px] object-contain" alt="" src={logo} />
             </div>
-            <div className="overflow-hidden flex flex-row items-center justify-end mr-10 gap-5 sm:gap-0 lg:hidden">
+            <div className="overflow-hidden flex flex-row items-center justify-end mr-10 gap-5 sm:gap-0 lg:invisible">
                 <nav className="overflow-hidden flex flex-row items-center gap-8 lg:hidden text-decoration-none">
                     <a href="#Inicio" className="cursor-pointer py-1 px-2 no-underline">
                         <div className="text-lg leading-[28px] font-semibold font-body-lg-regular text-neutral-900 text-left">
