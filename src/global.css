@@ -12,6 +12,10 @@ body {
   border-width: 0;
 }
 
+:root {
+  color-scheme: only light;
+}
+
 * {
   scroll-behavior: smooth;
 }
