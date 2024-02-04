@@ -6,7 +6,7 @@ function Hero() {
     <section
       className="self-stretch bg-white overflow-hidden shrink-0 pt-[60px] lg:pt-24 lg:pb-10 sm:pb-16 sm:pt-14 flex flex-col items-center justify-start relative gap-[10px] text-left text-41xl text-neutral-900 font-body-lg-regular px-[50px] sm:px-[30px]" id="Inicio">
       <img
-        className="absolute h-full z-0"
+        className="absolute lg:h-auto md:h-full z-0"
         alt=""
         src={background}
       />
