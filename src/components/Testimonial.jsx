@@ -7,7 +7,7 @@ function Testimonial() {
       <div className="self-stretch overflow-hidden flex flex-row items-start justify-start pt-20 sm:pt-20 px-[150px] pb-0 relative gap-[50px] md:pl-10 md:pr-10 md:box-border sm:pl-5 sm:pr-5 sm:box-border">
         <div className="overflow-hidden flex flex-col items-start justify-start gap-[8px] z-[0]">
           <h1 className="m-0 self-stretch relative text-inherit tracking-[-0.02em] leading-[60px] font-bold font-inherit lg:text-17xl md:text-17xl sm:text-11xl">
-            Que opinan nuestros clientes
+            Qué opinan nuestros clientes
           </h1>
           <div className="self-stretch relative text-lg leading-[28px] sm:text-sm">
             En sus propias palabras
@@ -59,7 +59,7 @@ function Testimonial() {
               <div className="flex-1 overflow-hidden flex flex-col items-start justify-start gap-[24px]">
                 <div className="self-stretch relative leading-[28px]">
                   La experiencia de su equipo me da total confianza en su
-                  capacidad de resolver cualquier desafio que pueda aparecer.
+                  capacidad de resolver cualquier desafío que pueda aparecer.
                 </div>
                 <div className="self-stretch overflow-hidden flex flex-col items-start justify-start">
                   <b className="self-stretch relative leading-[28px]">
@@ -85,7 +85,9 @@ function Testimonial() {
                 alt=""
                 src={quoteMark} />
               <div className="flex-1 overflow-hidden flex flex-col items-start justify-start gap-[24px]">
-                <div className="self-stretch relative leading-[28px]">{`CORE me ha ayudado de la manera más profesional y en el menor tiempo posible a llevar a cabo mi obra. `}</div>
+                <div className="self-stretch relative leading-[28px]">
+                  CORE me ha ayudado de la manera más profesional y en el menor tiempo posible a llevar a cabo mi obra.
+                </div>
                 <div className="self-stretch overflow-hidden flex flex-col items-start justify-start">
                   <b className="self-stretch relative leading-[28px]">
                     Floyd Miles
